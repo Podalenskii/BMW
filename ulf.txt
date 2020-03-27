@@ -1,0 +1,27 @@
+HARDWARE
+	hw_ccc
+SPRACHE
+	englisch
+	japan
+	koreanisch
+	china_trad
+	niederlande
+	russisch
+TWO_MICROPHONES
+	wert_01
+AD_GAIN
+	wert_13
+BT_UFN
+	wert_01
+EMERGENCY_NUMBER
+	wert_01
+SVS_EIN_AUS
+	nicht_aktiv     ???????
+AD_GAIN_2
+	wert_13
+	wert_14
+	wert_15
+SYNCML
+	aktiv
+PBAP
+	aktiv
